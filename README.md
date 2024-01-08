@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejiryoo&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yejiryoo&show_icons=true">
