@@ -22,17 +22,16 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<h>
-  Hi there 👋 I'm YeJiRyoo 
-</h>
+<h>Hi there 👋 I'm YeJiRyoo </h>
 </div>
 
 <div align=center>
-<h3>
-    📚 Tech Stack 📚</h3>
+<h3>📚 Tech Stack 📚</h3>
 <p>🌿 Platforms & Languages 🌿</p>
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+
 
 </div>
