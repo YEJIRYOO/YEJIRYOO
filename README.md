@@ -16,6 +16,22 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejiryoo&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=yejiryoo&show_icons=true">
+-->
+
+<div align=center>
+<h>
+  Hi there 👋 I'm YeJiRyoo 
+</h>
+</div>
+
+<div align=center>
+<h3">📚 Tech Stack 📚</h3>
+<p>🌿 Platforms & Languages 🌿</p>
+</div>
+<div align=center>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+</div>
