@@ -52,5 +52,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
+  <h3></h3>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=emilyryoo5307">
 </div>
