@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emilyryoo5307)](https://solved.ac/emilyryoo5307/)
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=emilyryoo5307">
 </div>
