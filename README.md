@@ -51,7 +51,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
-<div align=center>
-  <h3></h3>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=emilyryoo5307">
-</div>
