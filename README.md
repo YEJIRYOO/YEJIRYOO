@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!&fontSize=90">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi, I'm YeJiRyoo&fontSize=90">
 </div>
 
 <!--
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=yejiryoo&show_icons=true">
 -->
 
-<div align=center>
+<!-- <div align=center>
 <h><b>Hi there 👋 I'm YeJiRyoo </b></h>
 </div>
 
@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</div>
+</div> -->
 
