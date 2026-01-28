@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi, I'm YeJiRyoo&fontSize=90">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi,%20I'm%20YeJiRyoo&fontSize=90" />
 </div>
 
 <!--
